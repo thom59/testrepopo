@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testrepopo/static/css/main.a617e044.chunk.css",
+    "main.js": "/testrepopo/static/js/main.62e919e8.chunk.js",
+    "main.js.map": "/testrepopo/static/js/main.62e919e8.chunk.js.map",
+    "runtime-main.js": "/testrepopo/static/js/runtime-main.90539883.js",
+    "runtime-main.js.map": "/testrepopo/static/js/runtime-main.90539883.js.map",
+    "static/js/2.19b75e8e.chunk.js": "/testrepopo/static/js/2.19b75e8e.chunk.js",
+    "static/js/2.19b75e8e.chunk.js.map": "/testrepopo/static/js/2.19b75e8e.chunk.js.map",
+    "static/js/3.c6352b74.chunk.js": "/testrepopo/static/js/3.c6352b74.chunk.js",
+    "static/js/3.c6352b74.chunk.js.map": "/testrepopo/static/js/3.c6352b74.chunk.js.map",
+    "index.html": "/testrepopo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/testrepopo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.19b75e8e.chunk.js.LICENSE.txt": "/testrepopo/static/js/2.19b75e8e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/testrepopo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90539883.js",
+    "static/js/2.19b75e8e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.62e919e8.chunk.js"
+  ]
+}
